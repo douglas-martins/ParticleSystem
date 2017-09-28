@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/douglasmartins/Desenvolvimento/C++/Basic C++/Particle Motion/src/Particle Motion.cpp
+iostream
+-
+math.h
+-
+stdlib.h
+-
+time.h
+-
+SDL2/SDL.h
+-
+Screen.h
+/Users/douglasmartins/Desenvolvimento/C++/Basic C++/Particle Motion/src/Screen.h
+Swarm.h
+/Users/douglasmartins/Desenvolvimento/C++/Basic C++/Particle Motion/src/Swarm.h
+
+/Users/douglasmartins/Desenvolvimento/C++/Basic C++/Particle Motion/src/Particles.cpp
+Particles.h
+/Users/douglasmartins/Desenvolvimento/C++/Basic C++/Particle Motion/src/Particles.h
+
+/Users/douglasmartins/Desenvolvimento/C++/Basic C++/Particle Motion/src/Particles.h
+math.h
+-
+stdlib.h
+-
+
+/Users/douglasmartins/Desenvolvimento/C++/Basic C++/Particle Motion/src/Screen.cpp
+Screen.h
+/Users/douglasmartins/Desenvolvimento/C++/Basic C++/Particle Motion/src/Screen.h
+
+/Users/douglasmartins/Desenvolvimento/C++/Basic C++/Particle Motion/src/Screen.h
+SDL2/SDL.h
+-
+iostream
+-
+
+/Users/douglasmartins/Desenvolvimento/C++/Basic C++/Particle Motion/src/Swarm.cpp
+Swarm.h
+/Users/douglasmartins/Desenvolvimento/C++/Basic C++/Particle Motion/src/Swarm.h
+
+/Users/douglasmartins/Desenvolvimento/C++/Basic C++/Particle Motion/src/Swarm.h
+Particles.h
+/Users/douglasmartins/Desenvolvimento/C++/Basic C++/Particle Motion/src/Particles.h
+
